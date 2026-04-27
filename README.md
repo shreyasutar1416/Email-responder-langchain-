@@ -68,7 +68,7 @@ EMAIL-RESPONDER-LANGCHAIN/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/email-responder-langchain.git
+git clone https://github.com/shreyasutar1416/email-responder-langchain.git
 cd email-responder-langchain
 ```
 
@@ -180,6 +180,6 @@ This project was developed as part of an internship, focusing on practical imple
 
 ## 📬 Author:
 
-Shreya Sutar
+~ Shreya Sutar
 
-Agentic AI
+Agentic AI Intern
