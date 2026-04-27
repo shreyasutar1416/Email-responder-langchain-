@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langsmith
+python-dotenv
+pydantic
+tiktoken
+faiss-cpu
+chromadb
+imapclient
+pyzmail36
+email-validator
