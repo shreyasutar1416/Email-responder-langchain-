@@ -1,0 +1,7 @@
+python -m venv venv # virtual environment setup
+venv\Scripts\activate # activating the virtual environment
+
+pip install langchain-groq # setup the groq api key 
+pip install python-dotenv #setup .env
+
+python -m main or python main.py # Run the project
